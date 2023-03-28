@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283904912331",
+    "project_id": "backtocode-43ce0",
+    "storage_bucket": "backtocode-43ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283904912331:android:dfcda5612e34d16d8c644e",
+        "android_client_info": {
+          "package_name": "com.example.crudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283904912331-afhpo4c0sqa6clim7h0k954cto882aqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9QVINjLN1tHK0Em8eU_Qa3yCMwoFi6AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283904912331-afhpo4c0sqa6clim7h0k954cto882aqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
